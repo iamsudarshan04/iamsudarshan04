@@ -16,25 +16,13 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I'm a passionate **AI/ML Engineer** and **Software Developer** focused on building intelligent systems that solve real-world problems. With expertise spanning machine learning, deep learning, and modern web development, I bridge the gap between cutting-edge AI research and production-ready applications.
+AI/ML Engineer building intelligent systems at the intersection of blockchain and finance. Currently focused on deploying production-ready machine learning solutions and decentralized applications.
 
-```python
-class Sudarshan:
-    def __init__(self):
-        self.name = "Sudarshan"
-        self.role = "AI/ML Engineer & Full-Stack Developer"
-        self.education = "AI & Machine Learning Student"
-        self.interests = ["Deep Learning", "Computer Vision", "NLP", "Web Development"]
-        self.current_focus = ["Advanced Neural Networks", "React Ecosystem", "MLOps"]
-    
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something amazing together.")
-
-me = Sudarshan()
-me.say_hi()
-```
+**Specialization:** Deep Learning • Computer Vision • Smart Contracts  
+**Current Work:** Financial ML Systems & Blockchain Applications  
+**Approach:** Research-driven development with production scalability
 
 ---
 
@@ -100,25 +88,25 @@ me.say_hi()
 
 ## 🐍 Contribution Graph
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/iamsudarshan04/iamsudarshan04/blob/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/iamsudarshan04/iamsudarshan04/blob/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://github.com/iamsudarshan04/iamsudarshan04/blob/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/iamsudarshan04/iamsudarshan04/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
 ---
 
 ## 💡 Featured Projects
 
-### 🤖 Machine Learning Projects
-- **[Project Name]** - Brief description of your ML project with impact/results
-- **[Project Name]** - Brief description of another ML project
+### 🔗 Web3 Voting System
+Decentralized voting platform leveraging blockchain technology for transparent and secure elections. Built with smart contracts ensuring immutability and verifiable results.
 
-### 🌐 Web Development Projects
-- **[Project Name]** - Brief description of your web app with tech stack
-- **[Project Name]** - Brief description of another web project
+**Tech Stack:** Solidity, Ethereum, React, Web3.js
 
-*Check out my pinned repositories below for more!*
+### 📊 SmartFolio
+AI-powered financial decision support system that analyzes market data and provides intelligent investment recommendations using advanced machine learning algorithms.
+
+**Tech Stack:** Python, TensorFlow, Pandas, React
+
+*Explore more in my pinned repositories below*
 
 ---
 
